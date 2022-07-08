@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    background-color: red;
+    margin: 30px 650px;
+}
+table {
+    margin: 0px auto;
+}
+table tr td {
+    height: 100px;
+    width: 100px;
+}
+
+.color1 {
+    background-color: red;
+}
+
+.color2 {
+    background-color: black;
+}
