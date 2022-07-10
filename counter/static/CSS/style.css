@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#counter {
+    text-align: center;
+    /* outline: 2px solid purple; */
+    margin-top: 250px;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+p {
+    font-size: 2rem;
+}
+
+form {
+    text-align: center;
+}
+
+#buttons {
+    display: flex;
+    justify-content: center;
+}
+#button {
+    background-color: green;
+    color: white;
+    padding: 10px 15px;
+    margin: 10px;
+    font-size: 1.2rem;
+}
+
+#other_button {
+    background-color: red;
+    color: white;
+    padding: 10px 15px;
+    margin: 10px;
+    font-size: 1.2rem;
+}
